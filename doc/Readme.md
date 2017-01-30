@@ -1,2 +1,2 @@
 # Documentation Directory. 
-Raspberry PI documentation directory.
+This directory contains all documentaion and instructions for the Raspberry Pi project.
